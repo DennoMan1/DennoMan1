@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DennoMan1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Denis Nderitu
+- 👀 I’m interested in Spatial data science, Ai and automation
+- 🌱 I’m currently learning Geospatial Engineering
+- 💞️ I’m looking to collaborate on any AI and Data  science project
+- 📫 How to reach me: denisenderi022@gmail.com
 
 <!---
 DennoMan1/DennoMan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

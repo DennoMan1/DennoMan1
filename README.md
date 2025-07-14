@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Denis Nderitu
 - 👀 I’m interested in Spatial data science, Ai and automation
 - 🌱 I’m currently learning Geospatial Engineering
-- 💞️ I’m looking to collaborate on any AI and Data  science project
+- 💞️ I’m looking to collaborate on any Geospatial analysis, AI and Data  science project
 - 📫 How to reach me: denisenderi022@gmail.com
 
 <!---

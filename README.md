@@ -44,5 +44,4 @@
 
 ---
 
-⭐️ *Check out my [GitHub Wrapped](https://githubwrapped.io)*  
 

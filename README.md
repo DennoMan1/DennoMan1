@@ -4,22 +4,29 @@
 - 💞️ I’m looking to collaborate on any Geospatial analysis, AI and Data  science projects
 - 📫 How to reach me: denisenderi022@gmail.com
 
-## 📈 GitHub Stats
 
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DennoMan1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DennoMan1&layout=compact&langs_count=10&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=DennoMan1&theme=radical)
+
+---
+
+## 🚀 GitHub Profile Summary
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DennoMan1&theme=radical)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DennoMan1&theme=radical)
+![Top Languages by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DennoMan1&theme=radical)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DennoMan1&theme=radical)
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DennoMan1&theme=radical)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DennoMan1&theme=radical)
 
-
-## 🚀 GitHub Trends
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DennoMan1/langs)](https://githubtrends.io/user/DennoMan1)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DennoMan1/repos)](https://githubtrends.io/user/DennoMan1)
-
 ---
 
+## 🧠 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DennoMan1&theme=radical)
 
+---
 
 ## 🧰 Languages and Tools
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -37,5 +44,5 @@
 
 ---
 
-
+⭐️ *Check out my [GitHub Wrapped](https://githubwrapped.io)*  
 

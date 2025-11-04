@@ -39,9 +39,11 @@
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
 ![AutoCAD Civil 3D](https://img.shields.io/badge/AutoCAD%20Civil%203D-0078D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ERDAS IMAGINE](https://img.shields.io/badge/ERDAS%20IMAGINE-003366?style=for-the-badge&logo=hexagon&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
+
 
 

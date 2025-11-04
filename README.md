@@ -16,6 +16,8 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DennoMan1/repos)](https://githubtrends.io/user/DennoMan1)
 
 ---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DennoMan1&theme=radical)
+
 
 ## 🧰 Languages and Tools
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -32,6 +34,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
+
 
 ⭐️ *Check out my [GitHub Wrapped](https://githubwrapped.io)*  is file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

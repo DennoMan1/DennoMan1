@@ -11,6 +11,13 @@
 
 ---
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DennoMan1&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DennoMan1&theme=radical)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DennoMan1&theme=radical)
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DennoMan1&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DennoMan1&theme=radical)
+
+
 ## 🚀 GitHub Trends
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DennoMan1/langs)](https://githubtrends.io/user/DennoMan1)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DennoMan1/repos)](https://githubtrends.io/user/DennoMan1)

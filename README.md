@@ -5,11 +5,6 @@
 - 📫 How to reach me: denisenderi022@gmail.com
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DennoMan1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DennoMan1&layout=compact&langs_count=10&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=DennoMan1&theme=radical)
-
----
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DennoMan1&theme=radical)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DennoMan1&theme=radical)
@@ -23,7 +18,6 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/DennoMan1/repos)](https://githubtrends.io/user/DennoMan1)
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DennoMan1&theme=radical)
 
 
 ## 🧰 Languages and Tools
@@ -43,6 +37,4 @@
 ---
 
 
-⭐️ *Check out my [GitHub Wrapped](https://githubwrapped.io)*  is file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

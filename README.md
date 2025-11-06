@@ -11,7 +11,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DennoMan1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DennoMan1&layout=compact&langs_count=10&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DennoMan1&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DennoMan1&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D&v=3)
+
+
+
+
+
 ---
 
 ## 🚀 GitHub Profile Summary

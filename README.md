@@ -7,7 +7,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DennoMan1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DennoMan1&layout=compact&langs_count=10&theme=radical)
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 GitHub Profile Summary
+##  GitHub Profile Summary
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DennoMan1&theme=radical)
 ![Top Languages by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DennoMan1&theme=radical)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DennoMan1&theme=radical)
@@ -29,13 +29,13 @@
 
 ---
 
-## 🧠 Contribution Activity
+##  Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DennoMan1&theme=radical)
 
 ---
 
 
-## 🧩 Languages
+##  Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -49,7 +49,7 @@
 
 ---
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)

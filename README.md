@@ -36,7 +36,6 @@
 
 
 ##  Languages
-## 🧠 Languages
 
 <p align="center">
   

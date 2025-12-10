@@ -36,7 +36,7 @@
 ---
 
 
-##  Languages
+##  Languages, Tools and Technologies
 
 <p align="center">
   
@@ -53,8 +53,6 @@
 
 </p>
 
-
-##  Tools and Technologies
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)

@@ -38,7 +38,7 @@
 
 ##  Languages, Tools and Technologies
 
-  
+  <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/Shiny-76C3E2?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
+</p>
 
 
 
